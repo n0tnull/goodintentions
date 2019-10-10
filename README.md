@@ -1,7 +1,7 @@
 Good intentions
 ============
 
-![Logo](GoodIntentionsApp/web_hi_res_512.png)
+![Logo](web_hi_res_512.png)
 
 This is the official repository containing the source code behind the Good intentions
 Android application.
